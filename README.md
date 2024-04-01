@@ -1,6 +1,6 @@
-#Calculadora de IMC 
+#Calculadora de IMC#
 
-##IMC - Índice de massa corporal
+##IMC - Índice de massa corporal##
 
 O programa contém 4 arquivos, sendo:
 
