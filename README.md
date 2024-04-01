@@ -4,20 +4,12 @@
 
 O programa contém 4 arquivos, sendo:
 
-**Arquivo principal:** *voto_main.js*
+**Arquivo principal:** *imc_main.js*
 
-**Arquivo das classes:** *voto_class.js*
+**Arquivo das classes:** *imc_class.js*
 
-**Interface com o usuário:** *voto.html*
+**Interface com o usuário:** *imc.html*
 
-**Estilos do sistema:** *voto.css*
+**Estilos do sistema:** *imc.css*
 
 -------------------------------------------------------------------
-
-**Product Owner:** *Carlos Silva*
-
-**Scrum Master:** *Sheron Kup*
-
-**Dev Team:** 
-  - *Enzo Molinari Reis;*
-  - *João Batista Xavier Veloso Junior*
